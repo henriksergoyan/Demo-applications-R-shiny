@@ -16,14 +16,13 @@ rsconnect
 dplyr
 writexl
 
-The function of the application is to manipulate the data downloaded from [Armstat](armstat.am) 
+The function of the application is to manipulate the data downloaded from [Armstat](armstat.am).
 At first user is browsing the data of products and their codes and price as it was downloaded,
 then he/she is browsing main file which contains all
 codes of products for not missing any product. After that user will be able to choose year according to the
 data which you inputed at first.
 User can also download the filtered data.
 <br>
-The goal of the project is to make an automated tool which will implement those functions and as the data in
-Armstat is being updated every month the automation of the process was critically important for the Statistics
-department of Ministry of Economy of Armenia.
+The automation of that process was critically important for the Statistics
+department of Ministry of Economy of Armenia because the data in Armstat is being updated every month.
 
